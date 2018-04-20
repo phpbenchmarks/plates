@@ -1,0 +1,9 @@
+{
+    "name": "phpbenchmarks/plates-3-1",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "league/plates": "3.1.*",
+        "phpbenchmarks/plates": "1.0.0"
+    }
+}
