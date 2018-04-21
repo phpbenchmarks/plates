@@ -24,9 +24,9 @@ You can find how we benchmark it [here](http://www.phpbenchmarks.com/en/benchmar
 
 We do not follow semantic version for this branches. Here is an explanation about our versioning system:
 
-`X` benchmark type (`1` Hello World)
+`X` related to Plates major version (`1` Plates ^1, `2` Plates ^2, `3` Plates ^3)
 
-`Y` related to Plates version (`1` Plates ^1, `2` Plates ^2, `3` Plates ^3)
+`Y` benchmark type (`1` Hello World)
 
 `Z` new version, not just bugfix and could contains BC
 
