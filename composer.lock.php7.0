@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "59cdae746869a3073e861d5a819ca2cd",
+    "content-hash": "8131bc8580c915fcf2d6aaa23006c6c6",
     "packages": [
         {
             "name": "league/plates",
@@ -59,17 +59,17 @@
             "time": "2014-10-20T13:22:10+00:00"
         },
         {
-            "name": "phpbenchmarks/plates",
-            "version": "1.0.0",
+            "name": "phpbenchmarks/plates-common",
+            "version": "3.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/phpbenchmarks/plates.git",
-                "reference": "0ac1ec53cf190c8ce86b61fe746787456f422bec"
+                "url": "https://github.com/phpbenchmarks/plates-common.git",
+                "reference": "a7567ece6e4b059458ba4aa832590e0020e739a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpbenchmarks/plates/zipball/0ac1ec53cf190c8ce86b61fe746787456f422bec",
-                "reference": "0ac1ec53cf190c8ce86b61fe746787456f422bec",
+                "url": "https://api.github.com/repos/phpbenchmarks/plates-common/zipball/a7567ece6e4b059458ba4aa832590e0020e739a5",
+                "reference": "a7567ece6e4b059458ba4aa832590e0020e739a5",
                 "shasum": ""
             },
             "require": {
@@ -80,7 +80,7 @@
             "license": [
                 "proprietary"
             ],
-            "time": "2018-04-20T11:02:14+00:00"
+            "time": "2018-04-22T10:15:37+00:00"
         }
     ],
     "packages-dev": [],
