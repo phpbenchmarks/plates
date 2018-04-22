@@ -4,6 +4,6 @@
     "license": "proprietary",
     "require": {
         "league/plates": "1.2.*",
-        "phpbenchmarks/plates": "1.2.0"
+        "phpbenchmarks/plates-common": "1.1.0"
     }
 }
